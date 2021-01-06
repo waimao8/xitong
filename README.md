@@ -20,3 +20,5 @@ twm000太完美三蛋系统：   http://twm000.top/
 https://crxdl.com/    下载插件：GitHub加速
 
 电脑清理优化软件 Dism++：  https://github.com/Chuyu-Team/Dism-Multi-language
+
+优化教程：https://www.itsk.com/thread-409023-1-1.html
